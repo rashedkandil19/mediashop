@@ -1,0 +1,35 @@
+/* Media Shop Arabic-only RTL stylesheet */
+html[dir="rtl"]{direction:rtl}
+html[dir="rtl"] body{direction:rtl;text-align:right}
+html[dir="rtl"] .container{direction:rtl}
+html[dir="rtl"] .header .container,html[dir="rtl"] .nav>ul{direction:rtl}
+html[dir="rtl"] .nav a.btn{margin-left:0;margin-right:8px}
+html[dir="rtl"] .hero .container{direction:rtl}
+html[dir="rtl"] .hero-text{direction:rtl;text-align:right;display:block!important;visibility:visible!important;opacity:1!important;transform:none!important}
+html[dir="rtl"] .hero-actions,html[dir="rtl"] .trust{direction:rtl}
+html[dir="rtl"] .stage,html[dir="rtl"] .phero .art,html[dir="rtl"] .showcase{direction:ltr}
+html[dir="rtl"] .split{direction:rtl}
+html[dir="rtl"] .split-text{direction:rtl;text-align:right}
+html[dir="rtl"] .reveal.left,html[dir="rtl"] .reveal.right{opacity:1!important;transform:none!important;visibility:visible!important}
+html[dir="rtl"] .reveal.left.show,html[dir="rtl"] .reveal.right.show{opacity:1!important;transform:none!important}
+html[dir="rtl"] .card,html[dir="rtl"] .section-head,html[dir="rtl"] .faq,html[dir="rtl"] .contact-grid,html[dir="rtl"] .footer{direction:rtl}
+html[dir="rtl"] .checklist li{padding-left:0;padding-right:34px}
+html[dir="rtl"] .checklist li::before{left:auto;right:0}
+html[dir="rtl"] .card ul.mini li{padding-left:0;padding-right:20px}
+html[dir="rtl"] .card ul.mini li::before{left:auto;right:0}
+html[dir="rtl"] .cat .num{left:auto;right:18px}
+html[dir="rtl"] .cat .more{direction:rtl}
+html[dir="rtl"] .cat .more svg{transform:rotate(180deg)}
+html[dir="rtl"] .cat:hover .more svg{transform:rotate(180deg) translateX(6px)}
+html[dir="rtl"] .showcase .tag.t1{left:auto;right:22px}
+html[dir="rtl"] .showcase .tag.t2{right:auto;left:22px}
+html[dir="rtl"] .phero .container{direction:rtl}
+html[dir="rtl"] th,html[dir="rtl"] td{text-align:right}
+html[dir="rtl"] .faq summary{direction:rtl}
+html[dir="rtl"] .footer li a:hover{padding-left:0;padding-right:4px}
+html[dir="rtl"] .float-btns{right:auto;left:22px}
+html[dir="rtl"] .btn{direction:rtl}
+html[dir="rtl"] .btn svg.arr{transform:rotate(180deg)}
+html[dir="rtl"] .btn:hover svg.arr{transform:rotate(180deg) translateX(4px)}
+@media(max-width:900px){html[dir="rtl"] .hero .container,html[dir="rtl"] .phero .container,html[dir="rtl"] .split,html[dir="rtl"] .contact-grid,html[dir="rtl"] .designer{grid-template-columns:1fr}html[dir="rtl"] .split.rev .split-text{order:0}html[dir="rtl"] .nav>ul>li>a{text-align:right}html[dir="rtl"] .nav a.btn{margin-right:0}html[dir="rtl"] .sub{padding-left:0;padding-right:8px}html[dir="rtl"] .float-btns{left:14px;right:auto}}
+@media(max-width:640px){html[dir="rtl"] .hero-text{text-align:center}html[dir="rtl"] .hero-actions,html[dir="rtl"] .trust{justify-content:center}}

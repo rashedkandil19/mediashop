@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/" />
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/" />
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/stamps.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/stamps.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/stamps.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/stamps.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/ar/stamps.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/stamps.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/stamps.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/stamps.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/banners-flags.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/banners-flags.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/banners-flags.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/banners-flags.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/ar/banners-flags.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/banners-flags.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/banners-flags.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/banners-flags.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/printing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/printing.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/printing.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/printing.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/ar/printing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/printing.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/printing.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/printing.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/web-apps.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/web-apps.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/web-apps.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/web-apps.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/ar/web-apps.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/web-apps.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/web-apps.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/web-apps.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/services.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/services.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/services.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/ar/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/services.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/services.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/services.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/works.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/works.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/works.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/works.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/ar/works.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/works.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/works.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/works.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/about.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/about.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/about.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/ar/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/about.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/about.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/about.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/contact.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/contact.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/contact.html" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.YOUR-DOMAIN.com/ar/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.YOUR-DOMAIN.com/contact.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.YOUR-DOMAIN.com/ar/contact.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.YOUR-DOMAIN.com/contact.html" />
+    <priority>0.8</priority>
+  </url>
+</urlset>
