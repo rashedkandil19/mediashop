@@ -1,4 +1,6 @@
-/* Media Shop – shared scripts */
+import { inject } from "@vercel/analytics"
+
+inject()
 (() => {
   const AR = document.documentElement.lang === "ar";
   const $ = (s, r = document) => r.querySelector(s);
