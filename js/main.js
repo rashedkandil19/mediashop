@@ -1,3 +1,4 @@
+import { inject } from "@vercel/analytics"
 (() => {
   const AR = document.documentElement.lang === "ar";
   const $ = (s, r = document) => r.querySelector(s);
@@ -358,3 +359,5 @@
     build();
   }
 })();
+
+inject()
